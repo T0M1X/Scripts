@@ -1,0 +1,5 @@
+What is 0101 + 0001?
+What is 15 in binary?
+What is 15 in hex?
+What is 255 in binary?
+What is 255 in hex?
